@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Python/Django & Odoo Developer
 - 🌱 Learning full-stack development and building real-world projects
-- 👨‍💻 My portfolio: [ashique.dev](https://ashique.dev)
+- 👨‍💻 My portfolio: [ashique.dev](https://muhammedashique-portfolio.vercel.app/)
 - 📫 How to reach me: ashiquetharakan@gmail.com
 
 ---
